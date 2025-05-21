@@ -26,7 +26,7 @@
 
 ### Решение 2
 
-<img src = "img/cron.png" width = 100%>
+<img src = "img/dd.png" width = 100%>
 
 <img src = "img/iostat.png" width = 100%>
 
